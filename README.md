@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python,js,php**
 
-- my skills **html,css,python,wordpress & navigtion**
+- my skills  **html,css,python,wordpress & navigtion**
 
 - 💬 Ask me about **html,css,python**
 
