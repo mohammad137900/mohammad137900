@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm mohammad-shafiei</h1>
 <h3 align="center">A passionate frontend developer With great and practical ideas</h3>
 
+
+<img src="https://images.cointelegraph.com/images/1434_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDIvMDFkYzMxMmQtMTUwZC00ZmU4LTk1YmItNmEwOTI5NGY0YWUwLmpwZw==.jpg" width="250px" align="right" >
+
 - 🔭 I’m currently working on **biography website & persian nasa website**
 
 - 🌱 I’m currently learning **python,js,php**
@@ -25,8 +28,38 @@
 
 
 
+<h1 align="center"> سلام.
+  به دنیای من خوش آمدید
+
+  
+  من محمد شفیعی هستم. 22 سالمه 
+و عاشق دنیای طراحی سایت و برنامه نویسی هستم</h1>
+<h3 align="center">من یک توسعه دهنده وب  پرشور، با ایده های بزرگ در اینجا هستم</h3>
+
+- 🔭 فعلا دارم روی ان پروژه ها کار میکنم :  **biography website & persian nasa website**
+
+- 🌱 در این زمینه ها در حال قوی تر شدنم : **python,js,php**
+
+- این ها پروژه هایی هستند انجام دادم البته به زور و اجبار  استاد خاطری **snap-cosept,google-home-page,nasa-consept,instagram-register-page,**
+
+<h2 align="center"> مهارت ها توانایی های من </h2>   **html,css,python,wordpress & navigtion**
+
+- 💬 در این موارد اگه سوالی داشتی من اینجام : **html,css,python**
+
+- 📫بهم ایمیل بزن : **mosh2481379@gmail.com**
+
+ 
+  
+
+<h3 align="right"> به پیجم یه سر بزن و با من همراه شو</h3>
+<p align="right">
+
+<a href="https://instagram.com/m_programmer11" target="blank" aign="right"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_programmer11" height="30" width="40"  /></a>
+</p>
+<br>
 
 
 
+<h1   align="center">Count on me in the future</h1>
 
 
