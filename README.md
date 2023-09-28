@@ -50,7 +50,7 @@
 
 - این ها پروژه هایی هستند انجام دادم البته به زور و اجبار  استاد خاطری **snap-cosept,google-home-page,nasa-consept,instagram-register-page,**
 
-<h2 align="center"> مهارت ها توانایی های من </h2>   <h4 align="center">**html,css,python,wordpress & navigtion**</h4>
+<h2 align="center"> مهارت ها و توانایی های من </h2>   <h4 align="center">**html,css,python,wordpress & navigtion**</h4>
 
 - 💬 در این موارد اگه سوالی داشتی من اینجام : **html,css,python**
 
